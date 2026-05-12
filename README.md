@@ -62,27 +62,6 @@ The notebook compares:
 
 Validation is done with `StratifiedKFold` cross-validation and `accuracy` scoring.
 
-## How to run
-
-1. Clone the repository.
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Put `train.csv` and `test.csv` into the `data/` folder.
-4. Open and run:
-
-```text
-notebooks/titanic_survival_prediction.ipynb
-```
-
-5. The notebook will create:
-
-```text
-outputs/submission.csv
-```
 
 ## Notes
 
