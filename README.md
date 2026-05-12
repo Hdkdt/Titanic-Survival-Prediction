@@ -27,22 +27,6 @@ data/test.csv
 
 The CSV files are not included in this repository by default. Download them from Kaggle and place them in the `data/` folder.
 
-## Repository structure
-
-```text
-.
-├── data/
-│   └── .gitkeep
-├── notebooks/
-│   └── titanic_survival_prediction.ipynb
-├── outputs/
-│   └── .gitkeep
-├── src/
-│   └── features_and_model.py
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
 
 ## Features used
 
